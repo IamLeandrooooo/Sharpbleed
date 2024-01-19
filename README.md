@@ -4,12 +4,12 @@ A tool made in C# to exploit the Heartbleed vulnerability.
 
 # **Disclaimer: Legal Use Only**
 
-This script is provided solely for legal purposes. Any use of this script for illegal activities or in violation of applicable laws is strictly prohibited.
+Sharpbleed is provided solely for legal purposes. Any use of Sharpbleed for illegal activities or in violation of applicable laws is strictly prohibited.
 
 I take no responsibility if:
 
-- You use this script for unlawful purposes.
-- You encounter any legal consequences as a result of using this script inappropriately.
+- You use Sharpbleed for unlawful purposes.
+- You encounter any legal consequences as a result of using Sharpbleed inappropriately.
 
 # What is Sharpbleed
 Sharpbleed is a tool created using C# and .NET 8. It can be compiled for Windows, Linux and MacOS systems, since .NET 8 has the fantastic advantage of being cross-platform.
